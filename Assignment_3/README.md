@@ -1,4 +1,4 @@
-> Utils folder contains the program files of basic operations which were multiple time in these problem statements for ex- input of integer of digit limit 5, input list, etc.
+> Utils folder contains the program files of basic operations which were used multiple time in these problem statements for ex- input of integer of digit limit 5, input list, etc.
 
 Problem 1) - [calculate_sum.py](calculate_sum.py)
 
